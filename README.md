@@ -7,3 +7,5 @@
 
 
 Notebook is created by @ShanuDey
+
+[Video Tutorial](https://youtu.be/XQNykXL15KA)
